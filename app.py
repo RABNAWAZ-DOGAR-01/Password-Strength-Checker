@@ -69,3 +69,8 @@ st.markdown("---")
 st.caption("🔐 Developed to help you create stronger passwords & stay safe online.")
 
 
+# Footer message
+st.markdown("---")
+st.markdown("<p style='text-align: center;'>This code was created by Rabnawaz Dogar</p>", unsafe_allow_html=True)
+
+
